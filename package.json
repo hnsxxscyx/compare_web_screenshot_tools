@@ -1,18 +1,24 @@
 {
-  "name": "car.co.uk",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "dotenv": "^8.2.0"
-  },
-  "devDependencies": {
-    "chromedriver": "^87.0.2",
-    "selenium-webdriver": "^4.0.0-alpha.8"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+	"name": "car.co.uk",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {
+		"babel-polyfill": "^6.26.0",
+		"dotenv": "^8.2.0"
+	},
+	"devDependencies": {
+		"babel-cli": "^6.26.0",
+		"babel-preset-env": "^1.7.0",
+		"babel-preset-stage-0": "^6.24.1",
+		"babel-register": "^6.26.0",
+		"chromedriver": "^87.0.2",
+		"selenium-webdriver": "^4.0.0-alpha.8"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"type": "module"
 }
