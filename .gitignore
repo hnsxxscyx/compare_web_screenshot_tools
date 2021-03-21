@@ -19,3 +19,4 @@ packages/web/images/mock-video-poster.jpg
 packages/web/images/media-videos.png
 nginx
 static
+project/*
