@@ -16,7 +16,7 @@ npm run work
 
 # Feature
 
-[x] add babel and lint into project
-[x] add more interaction for save screenshot
-[x] add more browser support
-[x] improve progress of long tasks feedback, such as adding progress bars
+- [] add babel and lint into project
+- [] add more interaction for save screenshot
+- [] add more browser support
+- [] improve progress of long tasks feedback, such as adding progress bars
